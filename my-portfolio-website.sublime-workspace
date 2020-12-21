@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"full",
+				"full-width"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"bo",
+				"box-sizing\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"fl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"il",
+				"inline-block\tdisplay"
+			],
+			[
+				"l",
+				"line-height\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"gir",
+				"grid-area\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "project-one-full-page/project-one-full-page.html",
+			"settings":
+			{
+				"buffer_size": 3155,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5667,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project-two-full-page/project-two-full-page.html",
+			"settings":
+			{
+				"buffer_size": 3382,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 3141,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project-three-full-page/project-three-full-page.html",
+			"settings":
+			{
+				"buffer_size": 3241,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Tuvy/sitedev/tuvygusswebsite/my-portfolio-website",
+		"/Users/Tuvy/sitedev/tuvygusswebsite/my-portfolio-website/img",
+		"/Users/Tuvy/sitedev/tuvygusswebsite/my-portfolio-website/project-two-full-page"
+	],
+	"file_history":
+	[
+		"/Users/Tuvy/sitedev/recipe-card/index.html",
+		"/Users/Tuvy/sitedev/skillcrush-1st-website/101-jubilee-austen/index.html",
+		"/Users/Tuvy/sitedev/skillcrush-1st-website/101-jubilee-austen/css/main.css",
+		"/Users/Tuvy/sitedev/tuvygussdeveloper/css/main.css",
+		"/Users/Tuvy/sitedev/tuvygussdeveloper/index.html",
+		"/Users/Tuvy/Downloads/101-bonus_vision-board-challenge-2-solution/index.html",
+		"/Users/Tuvy/sitedev/vision-board/index.html",
+		"/Users/Tuvy/Downloads/101-bonus_recipe-challenge-4-solution/css/style.css",
+		"/Users/Tuvy/sitedev/recipe-card/101-bonus_recipe-starter-code/style.css",
+		"/Users/Tuvy/sitedev/recipe-card/css/styletuvy.css",
+		"/Users/Tuvy/sitedev/tuvygussdeveloper/contact/index.html",
+		"/Users/Tuvy/sitedev/tuvygussdeveloper/about/index.html",
+		"/Users/Tuvy/sitedev/tuvygussdeveloper/work-samples/index.html",
+		"/Users/Tuvy/sitedev/tuvygussdeveloper/tuvygussdeveloper.sublime-project",
+		"/Users/Tuvy/sitedev/tuvygussdeveloper/work-sample-1/index.html",
+		"/Users/Tuvy/SiteDev/tuvygussdeveloper/index.html",
+		"/Users/Tuvy/SiteDev/rogue-pickings/css/main.css",
+		"/Users/Tuvy/SiteDev/skillcrush-1st-website/101-jubilee-austen/index.html",
+		"/Users/Tuvy/SkillCrush/skillcrush-1st-website/101-jubilee-austen/index.html",
+		"/Users/Tuvy/SkillCrush/skillcrush-1st-website/101-jubilee-austen/css/main.css",
+		"/Users/Tuvy/SkillCrush/skillcrush-1st-website/101-jubilee-austen/Jubilee Austen.sublime-project",
+		"/Users/Tuvy/SkillCrush/HTML-CSS/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "project-one-full-page/project-one-full-page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2665,
+								2665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 583.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5133,
+								5183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1363.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "project-two-full-page/project-two-full-page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2892,
+								2892
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 598.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2837,
+								2837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "project-three-full-page/project-three-full-page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2751,
+								2751
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 583.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "my-portfolio-website.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
